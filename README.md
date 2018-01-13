@@ -1,0 +1,2 @@
+# dayone
+coding is cool
